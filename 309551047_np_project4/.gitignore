@@ -1,0 +1,13 @@
+# Folders
+.vscode/
+test_case/
+
+# Executables
+socks_server
+http_server
+
+# Others
+*.txt
+*.cgi
+socks.conf
+http_server.cpp

@@ -1,0 +1,13 @@
+# folders
+.vscode/
+extra_files/
+test_case/
+
+# executables
+http_server
+console.cgi
+panel.cgi
+cgi_server.exe
+
+# other files
+*.txt

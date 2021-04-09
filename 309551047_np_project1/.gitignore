@@ -1,0 +1,5 @@
+# executables
+bin/
+.vscode/
+npshell
+*.txt

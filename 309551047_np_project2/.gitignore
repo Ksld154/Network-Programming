@@ -1,0 +1,8 @@
+# executables
+bin/
+.vscode/
+*.txt
+
+# executables
+np_simple
+np_single_proc
